@@ -112,7 +112,7 @@ bash
 Copy code
 python -m venv matcher-env
 matcher-env\Scripts\activate  # Windows
-# or
+#or
 source matcher-env/bin/activate  # Mac/Linux
 
 
