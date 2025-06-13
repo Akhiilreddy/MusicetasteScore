@@ -1,0 +1,7 @@
+
+streamlit
+spotipy
+yt_dlp
+pydub
+librosa
+faiss-cpu
