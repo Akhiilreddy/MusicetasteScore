@@ -139,20 +139,18 @@ Copy code
 streamlit run app.py
 
 
+
+
 🛠️ Scope for Improvement
 ✅ Improve error handling and show skipped tracks
-
 🎧 Cache processed playlists to avoid re-downloading
-
 💡 Add genre-level or tempo-based comparison
-
 🎶 Visualize overlapping and unique tracks
-
 🌍 Add language/region awareness for multicultural playlists
-
 📈 Deploy on Streamlit Cloud or containerize via Docker
+
+
 
 🤝 Contributions & Collaborations
 Contributions are welcome! Whether it's cleaning code, adding new audio features, improving UI, or exploring new ML models — feel free to open issues or submit a pull request.
-
 💬 Also open to collaborating on music analytics, embeddings, and similarity learning projects — let’s build something impactful!
