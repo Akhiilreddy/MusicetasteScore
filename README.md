@@ -3,6 +3,10 @@
 This app lets two users compare their Spotify playlists to see how similar their music tastes are. It fetches metadata, downloads representative audio tracks from YouTube, extracts audio features, and computes a similarity score using FAISS with HNSW indexing.
 
 ---
+![musictaste2](https://github.com/user-attachments/assets/a578da3c-d3c6-4132-9f20-e5a61412b8d2)
+![musictaste3](https://github.com/user-attachments/assets/0a317b94-d28c-45f0-b872-51a018c848c6)
+![musictaste4](https://github.com/user-attachments/assets/0240c1fe-baf6-46ae-a9c1-fb921c929308)
+
 
 ## 🚀 Features
 
